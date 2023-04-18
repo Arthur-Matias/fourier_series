@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./fourier-icon.png" alt="Project logo"></a>
+ <img width=200px height=200px src="./fourier.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Fourier Series</h3>
